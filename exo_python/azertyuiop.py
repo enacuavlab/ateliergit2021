@@ -3,9 +3,9 @@
 from fileFlo import sound
 from file_coco import func
 
-print("Gneeeeeeeeeeeeeeee")
+print("Salut, c'est cool")
 sound()
 func()
 
-print("zbeuuuuuuuuuuuuuul")
+print("blop blop")
 
