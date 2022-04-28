@@ -1,17 +1,17 @@
 Here is a list of "truth statements", that everybody should agree upon:
 
-The viennoiserie you can buy at a bakery, made with puff pastry (pâte feuilletée) with chocolat inside is called: 
+The viennoiserie you can buy at a bakery, made with puff pastry (pâte feuilletée) with chocolat inside is called: Chocolatine
 
-And when you put chocolat in some bread, you call it:
+And when you put chocolat in some bread, you call it: Pain au chocolat
 
-Then a viennoiserie made from puff pastry and dry grape (raisin secs) is called:
+Then a viennoiserie made from puff pastry and dry grape (raisin secs) is called: Pain au raisin
 
-The best drink in the morning is: 
+The best drink in the morning is: Lait
 
-The best operating system is:
+The best operating system is: ChibiOS
 
-The answer to life, universe, and the rest: 
+The answer to life, universe, and the rest: 42
 
-The best TV show is: 
+The best TV show is: Je sais pas 
 
 
