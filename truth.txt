@@ -7,7 +7,7 @@ And when you put chocolat in some bread, you call it: Pain au chocolat
 
 Then a viennoiserie made from puff pastry and dry grape (raisin secs) is called: Pain au raisin
 
-The best drink in the morning is: Lait
+The best drink in the morning is: thé
 
 The best operating system is: ChibiOS
 
