@@ -1,13 +1,13 @@
 Exquisite corpse
 ================
 
-1. article + size/shape/color	The blue
+Le chat
 
 2. noun			ball
 
 3. verb			eat
 
-4. article + size	a big
+Le petit
 
 5. shape/color		yellow
 
