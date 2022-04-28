@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from fileFLO import sound
+from fileFlo import sound
 from file_coco import func
 
 print("Gneeeeeeeeeeeeeeee")
