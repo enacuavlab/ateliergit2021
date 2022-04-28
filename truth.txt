@@ -1,5 +1,6 @@
 Here is a list of "truth statements", that everybody should agree upon:
 
+
 The viennoiserie you can buy at a bakery, made with puff pastry (pâte feuilletée) with chocolat inside is called: Chocolatine
 
 And when you put chocolat in some bread, you call it: Pain au chocolat
@@ -12,6 +13,5 @@ The best operating system is: ChibiOS
 
 The answer to life, universe, and the rest: 42
 
-The best TV show is: Je sais pas 
-
+The best TV show is: CHACUN SES GOUTS 
 
