@@ -3,13 +3,13 @@ Exquisite corpse
 
 1. article + size/shape/color	The blue
 
-2. noun			ball
+Fabien
 
 3. verb			eat
 
 4. article + size	a big
 
-5. shape/color		yellow
+protubérant
 
 6. object noun		tree
 
