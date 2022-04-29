@@ -1,1 +1,11 @@
 parce qu'il travaille à l'ENAC
+
+git commit -m "message de commit"
+
+changer de branche:
+git checkout / git switch
+
+créer + changer la branche:
+git checkout -b / git switch -c
+
+

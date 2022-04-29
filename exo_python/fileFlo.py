@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 import beepy
 
-def sound()
-	while(True)
+def sound():
+	while(True):
 		beepy.beep(sound=1)
 		
 		
